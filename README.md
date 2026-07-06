@@ -278,7 +278,7 @@ For major changes, open an issue first to discuss what you would like to change.
 
 ## License
 
-This project is licensed under **CC-BY 4.0** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under **Apache 2.0** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
