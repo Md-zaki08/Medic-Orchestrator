@@ -1,0 +1,27 @@
+{
+  "Infectious (Class 6.2)": {
+    "allowed": ["High-Temp Incineration", "Autoclave Sterilization"],
+    "restrictions": ["Do not store near food storage centers", "Maximum transit weight 1000kg"],
+    "licensing_required": true
+  },
+  "Sharps (Class 6.2)": {
+    "allowed": ["Autoclave Sterilization", "High-Temp Incineration"],
+    "restrictions": ["Must use puncture-proof double-walled containers"],
+    "licensing_required": false
+  },
+  "Chemical Hazardous (Class 9)": {
+    "allowed": ["Chemical Neutralization", "High-Temp Incineration"],
+    "restrictions": ["Requires certified hazmat transport vehicle"],
+    "licensing_required": true
+  },
+  "Radioactive (Class 7)": {
+    "allowed": ["Decay in Storage / Deep Geologic Repository"],
+    "restrictions": ["VETO on municipal landfill", "VETO on high-temp incineration", "Requires lead-shielded containers"],
+    "licensing_required": true
+  },
+  "default": {
+    "allowed": ["Municipal Landfill"],
+    "restrictions": [],
+    "licensing_required": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "FAC_METRO_INCINERATE": {
+    "name": "Metro High-Temp Thermal Incinerator",
+    "supported_methods": ["High-Temp Incineration"],
+    "current_capacity_kg": 8500.0,
+    "max_capacity_kg": 10000.0,
+    "utilization": 0.85,
+    "status": "ACTIVE"
+  },
+  "FAC_AUTOCLAVE_CENTRAL": {
+    "name": "Central Sterilization Autoclave Facility",
+    "supported_methods": ["Autoclave Sterilization"],
+    "current_capacity_kg": 3000.0,
+    "max_capacity_kg": 12000.0,
+    "utilization": 0.25,
+    "status": "ACTIVE"
+  },
+  "FAC_CHEMICAL_NEUTRAL": {
+    "name": "Sovereign Chemical Neutralization Corp",
+    "supported_methods": ["Chemical Neutralization"],
+    "current_capacity_kg": 4500.0,
+    "max_capacity_kg": 5000.0,
+    "utilization": 0.90,
+    "status": "OVERLOAD"
+  },
+  "FAC_RADIO_SAFE": {
+    "name": "Deep-Shield Radioactive Containment Site",
+    "supported_methods": ["Decay in Storage / Deep Geologic Repository"],
+    "current_capacity_kg": 1200.0,
+    "max_capacity_kg": 5000.0,
+    "utilization": 0.24,
+    "status": "ACTIVE"
+  }
+}

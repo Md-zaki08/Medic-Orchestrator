@@ -1,0 +1,12 @@
+{
+  "manifest_id": "M-788-PII",
+  "facility_name": "St. Mary's Private Hospital",
+  "declared_contents": "Patient records and lab samples from Dr. John Smith, SSN: 078-05-1120, contact: j.smith@hospital.com, phone: +1-555-0100",
+  "estimated_weight_kg": 5.0,
+  "contact_email": "records@st-marys.org",
+  "raw_sensor_data": {
+    "radiation_uSv_h": 0.01,
+    "temperature_c": 18.0,
+    "ph": 7.0
+  }
+}

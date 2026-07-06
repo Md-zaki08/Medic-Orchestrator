@@ -1,0 +1,12 @@
+{
+  "manifest_id": "M-307-CHEMO",
+  "facility_name": "Regional Cancer Center",
+  "declared_contents": "Expired chemotherapy药剂 vials, trace cytotoxins, contaminated PPE",
+  "estimated_weight_kg": 8.2,
+  "contact_email": "pharmacy@cancer-center.org",
+  "raw_sensor_data": {
+    "radiation_uSv_h": 0.08,
+    "temperature_c": 20.0,
+    "ph": 2.8
+  }
+}

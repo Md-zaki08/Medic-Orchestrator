@@ -1,0 +1,12 @@
+{
+  "manifest_id": "M-911-RAD",
+  "facility_name": "Research Wing East",
+  "declared_contents": "Laboratory glassware, standard non-hazardous packaging materials",
+  "estimated_weight_kg": 15.0,
+  "contact_email": "lab-manager@research-east.edu",
+  "raw_sensor_data": {
+    "radiation_uSv_h": 450.0,
+    "temperature_c": 22.5,
+    "ph": 7.0
+  }
+}

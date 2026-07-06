@@ -1,0 +1,2 @@
+[console_scripts]
+medic-orchestrator = src.main:cli_entry

@@ -1,0 +1,12 @@
+{
+  "manifest_id": "M-104-BIO",
+  "facility_name": "General MedClinic A",
+  "declared_contents": "Syringes and discarded needles from oncology department",
+  "estimated_weight_kg": 24.5,
+  "contact_email": "waste-team@medclinic-a.org",
+  "raw_sensor_data": {
+    "radiation_uSv_h": 0.12,
+    "temperature_c": 21.0,
+    "ph": 7.1
+  }
+}

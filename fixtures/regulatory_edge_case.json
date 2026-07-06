@@ -1,0 +1,12 @@
+{
+  "manifest_id": "M-445-EDGE",
+  "facility_name": "Interstate Pharma Logistics Hub",
+  "declared_contents": "Interstate shipment of chemical waste: expired solvents and reagents",
+  "estimated_weight_kg": 220.0,
+  "contact_email": "compliance@interstate-pharma.com",
+  "raw_sensor_data": {
+    "radiation_uSv_h": 0.00,
+    "temperature_c": 24.0,
+    "ph": 3.5
+  }
+}
