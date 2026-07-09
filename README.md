@@ -1,7 +1,7 @@
 **Medic Orchestrator** (MedWaste-Sentinel)
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white)](https://python.org)
-[![License: Apache 2.0](https://img.shields.io/badge/license-ApacheCC--2.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+[![License: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 [![Tests: 52 passing](https://img.shields.io/badge/tests-52%20passing-brightgreen?logo=pytest)](https://github.com/)
 [![Status: Production-Ready Skeleton](https://img.shields.io/badge/status-prod--ready%20skeleton-yellow)](https://github.com/)
 
