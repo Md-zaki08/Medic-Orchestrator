@@ -1,4 +1,4 @@
-# Medic Orchestrator (MedWaste-Sentinel)
+9# Medic Orchestrator (MedWaste-Sentinel)
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License: CC-BY-4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
@@ -289,5 +289,3 @@ This project is licensed under **Apache 2.0** — see the [LICENSE](LICENSE) fil
 - **The open-source community** — For the tools and libraries that made this project possible (Pydantic, Streamlit, FastAPI, pytest, Pillow, and more)
 
 ---
-
-> **Note:** This README was generated for the Kaggle submission. The `.env` configuration section reflects the current state of the repository — variables are declared but not yet consumed by the code. As the project evolves toward production-grade LLM integration, the configuration section should be updated to document which variables are active and how to use them.
