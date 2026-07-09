@@ -1,4 +1,4 @@
-9# Medic Orchestrator (MedWaste-Sentinel)
+**Medic Orchestrator** (MedWaste-Sentinel)
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License: CC-BY-4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
